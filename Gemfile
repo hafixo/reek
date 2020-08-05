@@ -13,7 +13,7 @@ group :development do
   gem 'rake',                  '~> 13.0'
   gem 'rspec',                 '~> 3.0'
   gem 'rspec-benchmark',       '~> 0.6.0'
-  gem 'rubocop',               '~> 0.86.0'
+  gem 'rubocop',               '~> 0.88.0'
   gem 'rubocop-performance',   '~> 1.6.0'
   gem 'rubocop-rspec',         '~> 1.40.0'
   gem 'simplecov',             '~> 0.18.1'
